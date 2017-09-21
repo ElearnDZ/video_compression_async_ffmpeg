@@ -33,3 +33,8 @@ once the compression process is complete you will find the compressed video with
 .	Place ffmpeg.exe,ffplay.exe,ffprobe.exe files in public/bin/
 
 ````
+#Downlaod ffmpeg 
+````
+.	https://www.ffmpeg.org/download.html
+.	version 3.3.3
+````
