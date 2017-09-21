@@ -9,6 +9,7 @@ you can make your own custom size to convert videos according to your requiremen
 This will not slow down your website speed the compression process will run automatcially and once it is finished it will upload videos to desired directory.
 
 # Implementation
+````
 1 . Clone the code from  the given repository
 2 .	Configure it in your localhost server i.e xampp,appache etc
 3 .	Create a database name "homestead"
@@ -17,6 +18,7 @@ This will not slow down your website speed the compression process will run auto
 6 .	upload your desired video
 7 .	compression process will start
 once the compression process is complete you will find the compressed video with play button with jwplayer with all above mentioned video dimensions.
+````
 
 # Linux
 .	For Linux and other platform you need to install ffmpeg and set its path in app/jobs/VideoConversion.php 
