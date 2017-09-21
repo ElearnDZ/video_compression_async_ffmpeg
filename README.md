@@ -1,4 +1,4 @@
-# Video Compression Asynchronous ffmpeg Laravel 5.4
+# Video Compression And Conversion Asynchronous ffmpeg Laravel 5.4
 
 This artical will help you to compress videos and convert into mp4 format and reduce its size keeping the video quality same. This will return the following dimensions of videos
 ````
