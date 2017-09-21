@@ -14,6 +14,7 @@ This will not slow down your website speed the compression process will run auto
 # Requirements
 - PHP 7.0 or above.
 - Curl library installed.
+- Composer Installed
 
 # Implementation
 ````
