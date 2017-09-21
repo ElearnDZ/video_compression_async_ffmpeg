@@ -1,13 +1,16 @@
 # Video-Compression-Async-ffmpeg-Laravel-5.4
 ````
-This artical will help you to compress videos and convert into mp4 format and reduce its size keeping the video quality same. This will return the following dimensions of videos
-		* 720,1280
-		* 480,854
-		* 360,640
-		* 240,426
-		* 144,256
-you can make your own custom size to convert videos according to your requirement. for define your own custom size please add your dimension here app/jobs/VideoConversion.php
-This will not slow down your website speed the compression process will run automatcially and once it is finished it will upload videos to desired directory.
+	This artical will help you to compress videos and convert into mp4 format and reduce its size keeping
+	the video quality same. This will return the following dimensions of videos
+	* 720,1280
+	* 480,854
+	* 360,640
+	* 240,426
+	* 144,256
+	you can make your own custom size to convert videos according to your requirement. For define your 
+	own custom size please add your dimension here app/jobs/VideoConversion.php
+	This will not slow down your website speed the compression process will run automatcially and once it is finished 
+	it will upload videos to desired directory.
 ````
 # Implementation
 ````
@@ -18,7 +21,8 @@ This will not slow down your website speed the compression process will run auto
 .	now run the cloned directory in browser i.e http://localhost/video_compression_async_ffmpeg
 .	upload your desired video
 .	compression process will start
-once the compression process is complete you will find the compressed video with play button with jwplayer with all above mentioned video dimensions.
+	once the compression process is complete you will find the compressed video with play button with jwplayer
+	with all above mentioned video dimensions.
 ````
 
 # Linux
