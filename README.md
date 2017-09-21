@@ -1,4 +1,4 @@
-# video_compression_async_ffmpeg
+# Video-Compression-Async-ffmpeg-Laravel-5.4
 ````
 This artical will help you to compress videos and convert into mp4 format and reduce its size keeping the video quality same. This will return the following dimensions of videos
 		* 720,1280
